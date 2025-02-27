@@ -3,7 +3,7 @@
 This project is a Personal Assistant Chatbot that leverages a variety of interactive features such as text and voice input/output. It is designed to assist users with tasks, answer questions, provide entertainment, and offer helpful suggestions. Built using JavaScript, HTML, and CSS, it provides both text-based and voice-based interactions for enhanced user experience.
 
 ## Features
-
+ 
 - **Text-based Chatbot**: 
   - Users can interact with the chatbot by typing text messages. The bot can respond to a wide range of questions and commands.
   
